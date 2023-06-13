@@ -1,0 +1,7 @@
+1.how to save ones stocks in the csv file ,done
+2.how to reload all the data when opening the program again ->when exiting the program, copy all the data into <userinfodatabase.csv and delete the unserinfo.csv file. 
+->have an n for hoow many data is in the file already and a for (i<n) so the first time it doesnt read anything
+2.1: read the file (UserInfoKeep.csv)
+2.2 make functions to keep making users with already stored data
+2.2.1 we need new constructors for doing so
+2.2.2 (1) save each users stocks ,done

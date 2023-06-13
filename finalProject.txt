@@ -1,0 +1,17 @@
+Final project steps:
+1- 2 class(oop) ||done
+2- sign up, log in, menu ||done
+3- add or modify account data  ||done
+4- deposit or withdraw ||done
+5- search stock by name and find its value and check balance \were doing this ||done
+6- read from csv file and convert to vector(s) ||done
+7- buy or sell stocks ||done
+8- display stock market list and prices ||done
+9- save user info into a csv file  ||done
+
+utility/algorithm/iostream/string/cstring/vector/
+
+bonus:
+gui
+
+std::stod()
